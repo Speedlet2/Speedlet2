@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Speedlet2
 - 👀 I’m interested in PCB design (complete beginnner), electronics, microcontroller programming, networking
-- 🌱 I’m currently studying for A levels in Computer Science, Business, Economics and Maths
+- 🌱 I’m currently studying three A levels in Computer Science, Economics and Maths
 - 📫 How to reach me email A2312308@student.abbeygatesfc.ac.uk
 
 <!---
